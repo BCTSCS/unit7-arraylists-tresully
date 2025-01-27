@@ -23,6 +23,7 @@ public class ListOne {
         System.out.println(numbers);
         numbers.remove(0);             // del numbers[0] in Python
         System.out.println(numbers);
+        System.out.println(numbers);
     }
     
 }
